@@ -1,0 +1,4 @@
+- olá, meu nome é Juliano Jeremias
+- meu E-mail de contato: julianopjeremias@gmail.com
+- interessado em aprender a programar novas linguagens 
+- aprendendo a programar recentemente
